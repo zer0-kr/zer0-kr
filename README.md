@@ -4,9 +4,9 @@
 
 # Hey, I'm Zero 👋
 
-**Security Compliance Engineer** building enterprise security frameworks from scratch — and making them stick.
+**Security Compliance Engineer** building enterprise security frameworks from the ground up — and making them stick.
 
-Solo security officer at a Series B startup. Built the entire security program from zero and achieved ISMS / ISO 27001 / 27701 certification within 15 months — no external consulting. That earned a **Commendation from the Minister of Science and ICT**.
+🏅 Achieved ISMS / ISO 27001 / 27701 in 15 months as a solo security officer — no consulting. Received **Commendation from the Minister of Science and ICT**.
 
 **Focus:** ISMS · Cloud Security (AWS/GCP) · Compliance Automation · Zero Trust · Kubernetes
 
