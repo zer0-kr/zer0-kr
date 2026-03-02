@@ -8,14 +8,6 @@ That work earned a **Commendation from the Minister of Science and ICT** 🏅
 
 ---
 
-### 🧑‍🚀 Kubestronaut
-
-One of the few [CNCF Kubestronauts in Korea](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=kr&p=jihoon-gong) — holding all five Kubernetes certifications:
-
-`CKA` · `CKAD` · `CKS` · `KCNA` · `KCSA`
-
----
-
 ### What I Do
 
 - 🔐 **Compliance & Certification** — ISMS / ISO 27001 / 27701 audit preparation, policy development (17 policies), regulatory response
