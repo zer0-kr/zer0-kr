@@ -18,18 +18,6 @@ That work earned a **Commendation from the Minister of Science and ICT** 🏅
 
 ---
 
-### Certifications
-
-| Security | Kubernetes | Cloud |
-|----------|-----------|-------|
-| ISMS-P Auditor | Kubestronaut (CKA/CKAD/CKS/KCNA/KCSA) | AWS Solutions Architect Associate |
-| CISSP Associate | | |
-| Information Security Engineer (정보보안기사) | | |
-| CPPG | | |
-| IT Security Product Evaluator | | |
-
----
-
 ### Speaking & Community
 
 **Talks**
@@ -43,27 +31,6 @@ That work earned a **Commendation from the Minister of Science and ICT** 🏅
 
 - 👨‍🏫 **AWSKRUG Security Meetup** — Organizer (2025–)
 - 👨‍🏫 **KITRI White Hat School** — Mentor (2023–)
-
----
-
-### Career
-
-| Period | Company | Role |
-|--------|---------|------|
-| 2023 — Present | **Rapo Labs** | Security Engineer · Built ISMS from zero |
-| 2022 — 2023 | **Greenlabs** | Security Engineer |
-| 2022 | **KakaoBank** | IT Self-Audit |
-| 2019 — 2022 | **Financial Security Institute** | FinTech Security Evaluation |
-| 2018 — 2019 | **KISA** | Security Operations Center |
-
----
-
-### Awards
-
-- 🏅 **Information Security Merit Award** — Ministry of Science and ICT (2024)
-- 🏅 **White Hat School Appreciation Award** — KITRI (2024)
-- 🏅 **Army Cyber Defense Competition Excellence Award** — ROK Army HQ (2016)
-- 🏅 **Best of the Best 3rd Cohort — Top 30** — KITRI (2015)
 
 ---
 
