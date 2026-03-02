@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Security+Compliance+Engineer;Building+Security+from+Zero" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=380&lines=Security+Compliance+Engineer;Building+Security+from+Zero" alt="Typing SVG" />
 </p>
 
 # Hey, I'm Zero 👋
